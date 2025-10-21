@@ -149,4 +149,3 @@
 
 * 비트비트 8비트(웹게임): [http://webgame.df.nexon.com/bit-bit-8bit/index.html](http://webgame.df.nexon.com/bit-bit-8bit/index.html)
 * GitHub: [https://github.com/qlazzarus](https://github.com/qlazzarus)
-* 포트폴리오/추가 자료: 요청 시 제공
