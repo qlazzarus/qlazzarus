@@ -1,11 +1,11 @@
 # 경력기술서 (Work History)
 
 **이현석 | Senior Backend/Platform Engineer**
-이메일: [shiba@yeppyshiba.com](mailto:shiba@yeppyshiba.com)
-블로그: [https://blog.yeppyshiba.com](https://blog.yeppyshiba.com)
-GitHub: [https://github.com/qlazzarus](https://github.com/qlazzarus)
-연락처: 010-3802-8784
-최종 수정일: 2025-10-21 (KST)
+- 이메일: [shiba@yeppyshiba.com](mailto:shiba@yeppyshiba.com)
+- 블로그: [https://blog.yeppyshiba.com](https://blog.yeppyshiba.com)
+- GitHub: [https://github.com/qlazzarus](https://github.com/qlazzarus)
+- 연락처: 010-3802-8784
+- 최종 수정일: 2025-10-21 (KST)
 
 ---
 
